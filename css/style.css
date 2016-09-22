@@ -1,28 +1,35 @@
 ﻿body {
-	font-family: Tahoma;
+  font-family: Tahoma;
 }
+
+.mainBox {
+  width: 50%;
+  margin: 0 auto;
+}
+
 .paragraph {
-	text-align: center;
-	padding: 5px 0 20px 0;
-	font-size: 18px;
+  text-align: center;
+  padding: 5px 0 20px 0;
+  font-size: 18px;
 }
 
 .listItem {
-	font-size: 12px;
-	font-size: 18px;
+  font-size: 12px;
+  font-size: 18px;
 }
 
 .label {
-	font-size: 14px;
+  font-size: 14px;
 }
 
 .button {
-	display: block;
-    margin: 0 auto;
-    padding: 10px 40px;
-    font-size: 19px;
-    border: 2px solid #69737c;
-    background: rgb(207, 226, 243);
+  display: block;
+  margin: 0 auto;
+  padding: 10px 40px;
+  font-size: 19px;
+  border: 2px solid #69737c;
+  background: rgb(207, 226, 243);
+  margin-top: 15px;
 }
 
 .сheckbox {
